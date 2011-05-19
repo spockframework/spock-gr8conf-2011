@@ -1,0 +1,18 @@
+README
+======
+
+This is the source code accompaning the session "Smarter Testing With Spock" held at Gr8Conf 2011 (http://). It is available from http://. The video for this session is available from http://. The slides are available from http://
+
+To build the project and execute all Spock specifications, type:
+
+./gradlew build (Windows: gradlew build)
+
+To create an Eclipse project, type:
+
+./gradlew eclipse (Windows: gradlew eclipse)
+
+To create an IDEA project, type:
+
+./gradlew idea (Windows: gradlew idea)
+
+If you have any further questions, please post to the Spock mailing list: http://forum.spockframework.org
