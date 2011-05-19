@@ -1,14 +1,14 @@
 This project contains slides and source code for the presentation "Smarter Testing With Spock" delivered at GR8Conf 2011 (http://www.eu2011.gr8conf.org/talk/spock). A video of the presentation will be made available on the conference homepage.
 
-To build this project and execute all its Spock specifications, type:
+To build the project and execute all its Spock specifications, type:
 
 ./gradlew build (Windows: gradlew build)
 
-To create an Eclipse project for this project, type:
+To create an Eclipse project for the project, type:
 
 ./gradlew eclipse (Windows: gradlew eclipse)
 
-To create an IDEA project for this project, type:
+To create an IDEA project for the project, type:
 
 ./gradlew idea (Windows: gradlew idea)
 
